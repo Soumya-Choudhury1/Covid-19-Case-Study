@@ -11,7 +11,7 @@ This project presents a comprehensive exploratory data analysis (EDA) of **COVID
   - Country-wise and date-wise aggregations
   - Monthly and yearly visualizations
   - Comparative analysis across countries
-- Datasets used (CSV files not included):
+- Datasets used:
   - `covid_19_confirmed.csv`
   - `covid_19_deaths.csv`
   - `covid_19_recovered.csv`
